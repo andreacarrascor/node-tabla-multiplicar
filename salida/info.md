@@ -1,2 +1,2 @@
 # Información
-Esta carpeta contiene el produto final de la aplicació
+Esta carpeta contiene el producto final de la aplicación
